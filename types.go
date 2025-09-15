@@ -1,4 +1,4 @@
-package tinygo_types
+package tinygo_errors
 
 type (
 	// ErrorCode is a type for error codes.
